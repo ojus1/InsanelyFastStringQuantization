@@ -39,7 +39,7 @@ A Pure-Javascript implementation is in the works for in-browser Deep learning (T
 
 #### Surya Kant Sahu
 
-* Exploring the intersecion of Recommender Systems and Reinforcement Learning. Built Data Pipelines for multiple realtime Machine Learning applications. 
+* Exploring the intersection of Recommender Systems and Reinforcement Learning. Built Data Pipelines for multiple realtime Machine Learning applications. 
 * I play the Piano. A huge fan of Frédéric Chopin and Japanese Neo-Classical.
 * Contact: 
     + [Github](https://github.com/ojus1)
